@@ -1,0 +1,99 @@
+#div-link{
+    text-align: right;
+    border-bottom: 3px solid whitesmoke;
+    height: 50px;
+    background-color: aqua;
+    
+}
+
+body{
+    width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: yellow;
+    
+}
+#div-pai{
+    width: inherit;
+    height: inherit;
+}
+
+#link-inicio{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+}
+#link-sobremim{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    padding: 10px;
+    color: black;
+    text-decoration: none;
+    
+
+}
+#link-habilidades{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    padding: 10px;
+    color: black;
+    text-decoration: none;
+    
+
+}
+#link-contactos{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    padding: 10px;
+    color: black;
+    text-decoration: none;
+    border-bottom: 2px solid blue;
+
+}
+
+#link-meunome{
+
+    color: blue;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;  
+}
+
+#link-cv{
+
+    margin-right: 400px;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: black;
+}
+
+#html5,#css3,#javascript,#c{
+
+    width: inherit;
+    height: inherit;
+}
+
+#fb,#yt,#in,#wp{
+    width: 50px;
+}
+
+h3{
+    display: inline-block;
+    margin-left: 10px;
+}
+
+#div-yt,#div-wp,#div-in,#div-fb{
+
+    width:1000px;
+    border-bottom: 3px solid green;
+}
+
